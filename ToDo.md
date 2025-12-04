@@ -1,3 +1,3 @@
  ToDo-1: c'est pour nous :)
- ToDo-2: écrire la spécification
+ ToDo-2: écrire la spécification de pi 3.1415....
  ToDo-3: YES
