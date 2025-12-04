@@ -1,4 +1,4 @@
-ToDo-1: c'est pour nous :)
+ToDo-1: c'est mort pour nous :)
 ToDo-2: écrire la spécification de pi 3.1415.......
-ToDo-3: phibonnacci 
+ToDo-3: phibonnacci NO! :c
 ToDo-4: ....
