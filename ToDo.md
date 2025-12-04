@@ -1,3 +1,3 @@
-ToDo-1: c'est pour nous :)
+ToDo-1: C'est mort
 ToDo-2: écrire la spécification de pi 3.1415....
-ToDo-3: phibonnacci
+ToDo-3: NO! :c
