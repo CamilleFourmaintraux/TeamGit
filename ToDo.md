@@ -1,3 +1,3 @@
- ToDo-1:
- ToDo-2:
- ToDo-3:
+ToDo-1:
+ToDo-2: écrire la conception
+ToDo-3: c'est pour b2
