@@ -1,7 +1,3 @@
- ToDo-1: C'est mort
-	HAAA
- ToDo-2: écrire la spécification
- ToDo-3: NO! :c
-
-
-ABZKHFGGedfghuji
+ToDo-1: C'est mort
+ToDo-2: écrire la spécification de pi 3.1415....
+ToDo-3: NO! :c
