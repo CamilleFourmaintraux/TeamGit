@@ -1,3 +1,3 @@
- ToDo-1: c'est pour a2
+ ToDo-1: c'est pour nous :)
  ToDo-2: écrire la spécification
- ToDo-3:
+ ToDo-3: YES
